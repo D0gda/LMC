@@ -2,11 +2,11 @@
     "name": "LMC",
     "symbol": "LMC",
     "description": "LMC",
-    "image": "https://violet-worthwhile-otter-304.mypinata.cloud/ipfs/bafkreibh4ujnj5jrnjum6bav3le5xb5rquagol7mztmyaej3vrcxn3dfv4",
+    "image": "https://raw.githubusercontent.com/D0gda/LMC/refs/heads/main/photo_5366075687032263685_y.jpg",
     "attributes": [
       {
-       {"trait_type": "Type", "value": "Meme Coin"},      
-       {"trait_type": "Blockchain", "value": "Solana"}  
+        "trait_type": "Item",
+        "value": "Developer Portal"
       }
     ]
   }
